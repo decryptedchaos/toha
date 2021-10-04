@@ -52,6 +52,9 @@
 .home .typing-carousel {
   font-size: 14pt;
   color: #f0f0f0;
+  text-shadow: 1px 0 #ccc;
+  letter-spacing: 1px;
+  font-weight: bold;
 }
 
 #typing-carousel-data {
