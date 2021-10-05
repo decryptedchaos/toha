@@ -114,8 +114,18 @@ img.left {
   margin-right: auto;
 }
 
+img.left-inline {
+  display: inline-block;
+  margin-right: auto;
+}
+
 img.right {
   display: block;
+  margin-left: auto;
+}
+
+img.right-inline {
+  display: inline-block;
   margin-left: auto;
 }
 
